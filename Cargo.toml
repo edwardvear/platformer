@@ -8,6 +8,5 @@ edition = "2021"
 
 [dependencies]
 bevy="0.7"
-# benimator="3.3"
-benimator = { path="../edward_benimator" }
+benimator = "3.6"
 bevy_rapier2d = "0.13"
